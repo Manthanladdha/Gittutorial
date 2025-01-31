@@ -1,1 +1,7 @@
 print("Hello seniors")
+print("Hello seniors")
+print("Hello seniors")
+print("Hello seniors")
+print("Hello seniors")
+print("Hello seniors")
+print("Hello seniors")
